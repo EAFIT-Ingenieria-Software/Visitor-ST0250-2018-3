@@ -12,7 +12,7 @@ Considere un escenario en el que necesitamos realizar cierto tipo de operaciones
 ![enter image description here](https://lh3.googleusercontent.com/JwfC5XjOC0L4UJlrAIvkfpjGNrutrqJOoKcidH11nKND6qzXGxcxlfzZ3xYzI4hzFDJSKbcsk66O)
 ![enter image description here](https://lh3.googleusercontent.com/TH5tKsS9gChRKfLbr4cgQYO8teHNkn70p1QWHs1cAz1iwgkTTxhhfB19lQWHzARRdo-tWDhpjFhV)
 
-### Lenguaje Java
+### Lenguaje: *Java*
 ### Ejecución del Código
 Ejecutar el main en la clase VisitorClient
 
