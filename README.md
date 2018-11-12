@@ -16,6 +16,7 @@ Considere un escenario en el que necesitamos realizar cierto tipo de operaciones
 ### Ejecución del Código
 Ejecutar el main en la clase VisitorClient
 
-### Referencias Bibliográficas
-App Desing Patterns(Gof)
-wikipedia.org
+### Referencias 
+-App Desing Patterns(Gof)
+
+-wikipedia.org
